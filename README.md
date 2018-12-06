@@ -13,6 +13,9 @@
 
 * ESX License Support
   * [esx_license](https://github.com/ESX-Org/esx_license)
+  
+  ### LICENSE
+Du får mer än gärna ändra vad du vill i scriptet men du får INTE sälja vidare scriptet eller ladda upp det på nytt, hänvisa folket hit istället.
 
 ## Download & Installation
 
