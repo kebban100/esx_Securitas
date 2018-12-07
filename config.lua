@@ -35,7 +35,6 @@ Config.SecuritasStations = {
 		-- https://wiki.rage.mp/index.php?title=Weapons
 		AuthorizedWeapons = {
 			{ name = 'WEAPON_NIGHTSTICK',       price = 200 },
-			{ name = 'WEAPON_COMBATPISTOL',     price = 300 },
 			{ name = 'WEAPON_STUNGUN',          price = 500 },
 			{ name = 'WEAPON_FLASHLIGHT',       price = 80 }
 		},
